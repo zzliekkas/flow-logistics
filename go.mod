@@ -4,7 +4,7 @@ go 1.23.0
 
 toolchain go1.23.3
 
-require github.com/zzliekkas/flow/v2 v2.0.0
+require github.com/zzliekkas/flow/v3 v3.0.0
 
 require (
 	github.com/bytedance/sonic v1.9.1 // indirect
