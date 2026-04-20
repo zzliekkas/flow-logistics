@@ -1,4 +1,4 @@
-module github.com/zzliekkas/flow-logistics
+module github.com/zzliekkas/flow-logistics/v3
 
 go 1.23.0
 

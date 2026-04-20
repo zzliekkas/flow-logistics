@@ -1,7 +1,7 @@
 package logistics
 
 import (
-	"github.com/zzliekkas/flow-logistics/providers"
+	"github.com/zzliekkas/flow-logistics/v3/providers"
 	"github.com/zzliekkas/flow/v3"
 )
 
